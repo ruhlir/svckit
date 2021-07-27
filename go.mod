@@ -15,7 +15,6 @@ require (
 	github.com/gobwas/pool v0.2.0 // indirect
 	github.com/gobwas/ws v1.0.0
 	github.com/google/btree v1.0.0 // indirect
-	github.com/google/go-cmp v0.3.1 // indirect
 	github.com/gorilla/mux v1.8.0
 	github.com/gorilla/websocket v1.4.2 // indirect
 	github.com/hashicorp/consul v1.4.4
@@ -40,20 +39,19 @@ require (
 	github.com/onsi/gomega v1.5.0 // indirect
 	github.com/pascaldekloe/goe v0.1.0 // indirect
 	github.com/peterbourgon/g2s v0.0.0-20170223122336-d4e7ad98afea // indirect
-	github.com/pkg/errors v0.8.1
+	github.com/pkg/errors v0.9.1
 	github.com/quipo/statsd v0.0.0-20180118161217-3d6a5565f314 // indirect
 	github.com/satori/go.uuid v1.2.0
 	github.com/sergi/go-diff v1.0.0 // indirect
 	github.com/smira/go-statsd v1.2.1
-	github.com/stretchr/testify v1.3.0
+	github.com/stretchr/testify v1.6.1
 	github.com/urfave/negroni v1.0.0
-	github.com/xdg/stringprep v1.0.0 // indirect
 	github.com/yudai/gojsondiff v1.0.0
 	github.com/yudai/golcs v0.0.0-20170316035057-ecda9a501e82 // indirect
 	github.com/yudai/pp v2.0.1+incompatible // indirect
-	go.mongodb.org/mongo-driver v1.3.2
-	golang.org/x/net v0.0.0-20190611141213-3f473d35a33a
+	go.mongodb.org/mongo-driver v1.5.1
+	golang.org/x/net v0.0.0-20200202094626-16171245cfb2
 	gopkg.in/alexcesaro/statsd.v2 v2.0.0 // indirect
 	gopkg.in/mgo.v2 v2.0.0-20180705113604-9856a29383ce
-	gopkg.in/yaml.v2 v2.2.2
+	gopkg.in/yaml.v2 v2.2.8
 )
